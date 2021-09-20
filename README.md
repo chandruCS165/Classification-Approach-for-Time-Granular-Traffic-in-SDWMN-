@@ -18,4 +18,4 @@ different factors and TC is also used in various applications like intrusion
 detection,firewall building,status report generation ,etc. This paper uses different kinds of
 ML(Machine Learning) techniques to classify the network traffic to avoid congestion. All
 ML Algorithms reached the accuracy above 95%.Boosted Gradient Descent classifier
-provides the best accuracy(above 98.8%) of all other ML techniques. 10-fold cross- validation technique is used to validate the model and to avoid overfitting. KEY WORDS: ML classifier, Traffic Classification, WMN, SDN, Traffic Engineering,
+provides the best accuracy(above 98.8%) of all other ML techniques. 10-fold cross- validation technique is used to validate the model and to avoid overfitting.
